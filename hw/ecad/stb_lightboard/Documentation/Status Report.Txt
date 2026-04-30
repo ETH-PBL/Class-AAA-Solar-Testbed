@@ -1,0 +1,10 @@
+Output: CAD
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [STB_LightBoard.PcbDoc]
+   Generated File[STB_LightBoard_CAD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:09:43 On 23.11.2022

@@ -1,0 +1,13 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [STB_DUTcarrier.PcbDoc]
+   Generated File[STB_DUTcarrier_NC Drill.TXT]
+   Generated File[STB_DUTcarrier_NC Drill-BoardEdgeRout.TXT]
+   Generated File[STB_DUTcarrier_NC Drill.LDP]
+   Generated File[STB_DUTcarrier_NC Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:00:24 On 06.11.2022

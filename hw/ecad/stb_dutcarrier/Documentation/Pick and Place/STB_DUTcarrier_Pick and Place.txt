@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+C:\Users\phili\polybox\05_AltiumProjects\SolarTestBed\STB_DUTCarrier\Documentation\Pick and Place\STB_DUTcarrier_Pick and Place.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06.11.22
+Time:       13:00
+Revision:   fabac2e8fdc06b71137f1cdf5286db19a129ea33
+Variant:    No variations
+Units used: mm
+
+Designator Comment                            Layer    Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                                                       
+X3         CellConnector                      TopLayer cellConnector         79.0000      10.0318      180      "SMD dummy for cell connection"                                                                   
+X2         CellConnector                      TopLayer cellConnector         79.0000      140.0317     180      "SMD dummy for cell connection"                                                                   
+U1         TMP116NAIDRVR                      TopLayer FP-DRV0006B-MFG       12.2640      74.9785      180      "SENSOR DIGITAL -55C-125C 6WSON"                                                                  
+X1         "CONN PWR CARD EDGE PCB SLOT MALE" TopLayer CON-67_0.5MM_PCB_SLOT 1.2000       15.0000      270      "Mates with 2199119-4 - No BOM"                                                                   
+C1         100nF                              TopLayer CAPC1050X55X23LL05T13 9.9983       75.3489      270      "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel" 
+R2         100k                               TopLayer RESC1005X40X25LL05T10 5.7000       7.2500       270      ""                                                                                                
+A1         "Logo ETH Zurich"                  TopLayer eth-zurich_5mm        -18.4000     -3.0000      90       ""                                                                                                

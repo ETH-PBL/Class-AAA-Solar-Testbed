@@ -1,0 +1,16 @@
+Component,Part Number / Model,Quantity
+"DC/DC Converter (54 W, 5 V out)",MEAN WELL DDR-60G-5,1
+"DC/DC Converter (60 W, 12 V out)",MEAN WELL DDR-60G-12,1
+Power Supply Rail Mount 480W,Weidmuller 1469510000,1
+Circuit Breaker,Weidmuller 2822220000,1
+Peltier Module,Same Sky CP603315H,4
+Heat Sink Fan,NF-A14 PWM,6
+Door Sensor,Bernstein MAK-5236-BCD-6,1
+Door Sensor Magnet,Bernstein TK-52-CD,1
+AC Power Entry Module,TE Connectivity 10CE1 M0,1
+RGB Push Button,Metzler P19-TF-RGB,1
+HDMI Panel Mount,Adafruit 4129,1
+Ethernet Panel Mount (RJ-45),Adafruit 4130,1
+USB-C Panel Mount,Adafruit 4261,1
+Banana Jack 4mm (Red),Cal Test CT4397-02-2,1
+Banana Jack 4mm (Black),Cal Test CT4397-02-0,1

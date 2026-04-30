@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 08:17:20 On 10.11.2022
+
+Output: BOM
+Type  : BOM
+From  : Variant [STB_SensorBoard_main] of Project [STB_SensorBoard.PrjPcb]
+   Generated File[STB_SensorBoard_BOM.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08:17:25 On 10.11.2022

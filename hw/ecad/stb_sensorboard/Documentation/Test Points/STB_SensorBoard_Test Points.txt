@@ -1,0 +1,37 @@
+Net         Name        X Coord     Y Coord     Side        Hole Size   Type        
+NetC16_2    TP22-TP     188.3178mm     297.1mm  Top                0mm  Surface mount
+NetR28_1    TP31-TP           52mm     295.5mm  Top                0mm  Surface mount
+CELL_POS    TP17-TP     340.2128mm     271.5mm  Top                0mm  Surface mount
+CELL_NEG    TP16-TP     340.2128mm     268.5mm  Top                0mm  Surface mount
+5V          TP1-TP        267.43mm  345.0024mm  Top                0mm  Surface mount
+3V3         TP10-TP       244.57mm       345mm  Top                0mm  Surface mount
+GND         TP15-TP       264.89mm  345.0074mm  Top                0mm  Surface mount
+NetR2_1     TP19-TP      158.225mm     303.2mm  Top                0mm  Surface mount
+NetC14_2    TP20-TP     156.8245mm  295.5938mm  Top                0mm  Surface mount
+INT_DOOR    TP3-TP        262.35mm       345mm  Top                0mm  Surface mount
+GPIO2       TP4-TP      258.5537mm  344.0083mm  Top                0mm  Surface mount
+INT_VEML    TP5-TP        259.81mm       345mm  Top                0mm  Surface mount
+I2C_SYS_SCL TP6-TP      255.9999mm       344mm  Top                0mm  Surface mount
+I2C_SYS_SDA TP8-TP         253.4mm       344mm  Top                0mm  Surface mount
+UART_SYS_TX TP13-TP     248.3811mm  343.9971mm  Top                0mm  Surface mount
+INT_MAX6615_nFAILTP14-TP       249.65mm       345mm  Top                0mm  Surface mount
+UART_SYS_RX TP11-TP          251mm       344mm  Top                0mm  Surface mount
+INT_MAX6615_nOTTP12-TP     252.2405mm       345mm  Top                0mm  Surface mount
+INT_TMP     TP9-TP        254.73mm       345mm  Top                0mm  Surface mount
+INT_AS7265x TP7-TP        257.27mm       345mm  Top                0mm  Surface mount
+NetR11_2    TP24-TP     166.8951mm  301.1431mm  Top                0mm  Surface mount
+NetR7_1     TP21-TP     181.9228mm  297.0892mm  Top                0mm  Surface mount
+VDUT        TP23-TP     182.6728mm  301.3664mm  Top                0mm  Surface mount
+PELTIER_VO1_T3TP26_T3-TP     298.1mm     128.5mm  Top                0mm  Surface mount
+PELTIER_VOS_T3TP25_T3-TP     298.1mm  131.5001mm  Top                0mm  Surface mount
+PELTIER_VO1_T1TP26_T1-TP   45.8286mm  217.9862mm  Top                0mm  Surface mount
+PELTIER_VOS_T1TP25_T1-TP   45.8286mm  214.9862mm  Top                0mm  Surface mount
+NetR26_1    TP30-TP        298.8mm     295.5mm  Top                0mm  Surface mount
+NetR25_1    TP29-TP       50.879mm      46.5mm  Top                0mm  Surface mount
+NetR29_1    TP32-TP     297.6625mm     50.65mm  Top                0mm  Surface mount
+PELTIER_VO1_T4TP26_T4-TP  298.1867mm       229mm  Top                0mm  Surface mount
+PELTIER_VOS_T4TP25_T4-TP  298.1867mm       232mm  Top                0mm  Surface mount
+GPIO1       TP2-TP       261.097mm  344.0083mm  Top                0mm  Surface mount
+PELTIER_VO1_T2TP26_T2-TP    45.656mm  117.5297mm  Top                0mm  Surface mount
+PELTIER_VOS_T2TP25_T2-TP    45.656mm  114.5297mm  Top                0mm  Surface mount
+INT_DOOR    TP18-TP        350.5mm      16.3mm  Top                0mm  Surface mount

@@ -1,0 +1,13 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [STB_ValidationBoard.PcbDoc]
+   Generated File[STB_ValidationBoard_NC Drill.TXT]
+   Generated File[STB_ValidationBoard_NC Drill-BoardEdgeRout.TXT]
+   Generated File[STB_ValidationBoard_NC Drill.LDP]
+   Generated File[STB_ValidationBoard_NC Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 09:38:38 On 09.11.2022

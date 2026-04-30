@@ -1,0 +1,11 @@
+Output: Test Points
+Type  : Test Points
+From  : Variant [[No Variations]] of PCB Document [STB_ControlBoard.PcbDoc]
+   Generated File[STB_ControlBoard_Test Points.txt]
+   Generated File[STB_ControlBoard_Test Points.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:20:01 On 23.11.2022

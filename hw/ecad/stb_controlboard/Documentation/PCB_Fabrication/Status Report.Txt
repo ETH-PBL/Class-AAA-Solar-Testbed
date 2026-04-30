@@ -1,0 +1,14 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [STB_ControlBoard.PcbDoc]
+   Generated File[STB_ControlBoard_NC Drill-RoundHoles.TXT]
+   Generated File[STB_ControlBoard_NC Drill-SlotHoles.TXT]
+   Generated File[STB_ControlBoard_NC Drill-BoardEdgeRout.TXT]
+   Generated File[STB_ControlBoard_NC Drill.LDP]
+   Generated File[STB_ControlBoard_NC Drill.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:37:31 On 23.11.2022

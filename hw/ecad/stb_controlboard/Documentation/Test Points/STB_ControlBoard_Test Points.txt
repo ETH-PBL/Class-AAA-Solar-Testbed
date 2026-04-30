@@ -1,0 +1,50 @@
+Net         Name        X Coord     Y Coord     Side        Hole Size   Type        
+SPI_CAM_MOSITP49-TP      41.6208mm   28.6548mm  Top                0mm  Surface mount
+ADC1_IN1    TP41-TP      42.0793mm   50.6124mm  Top                0mm  Surface mount
+ADC1_IN2    TP45-TP      49.9804mm   50.6699mm  Top                0mm  Surface mount
+ADC1_IN4    TP54-TP      50.1957mm   76.8457mm  Top                0mm  Surface mount
+NetC3_2     TP1-TP       47.3939mm   55.9581mm  Top                0mm  Surface mount
+GND         TP3-TP       47.4675mm   51.7464mm  Top                0mm  Surface mount
+NetC5_2     TP2-TP       40.7167mm   58.3261mm  Top                0mm  Surface mount
+GND         TP4-TP        44.621mm   58.3495mm  Top                0mm  Surface mount
+UART_RBI_RX TP28-TP      31.9375mm    61.674mm  Top                0mm  Surface mount
+UART_RBI_TX TP27-TP        31.85mm   59.0258mm  Top                0mm  Surface mount
+UART_RBI_TX TP48-TP      64.1783mm   24.1198mm  Top                0mm  Surface mount
+SPI_CAM_CLK TP52-TP      40.6213mm   31.5512mm  Top                0mm  Surface mount
+SPI_CAM_nCS TP53-TP      43.6335mm   25.3171mm  Top                0mm  Surface mount
+GPIO_BUZZER TP29-TP      49.3685mm      65.4mm  Top                0mm  Surface mount
+GND         TP30-TP      56.1038mm   76.8457mm  Top                0mm  Surface mount
+24V         TP34-TP      44.7353mm   77.0115mm  Top                0mm  Surface mount
+UART_SYS_TX TP43-TP       58.403mm   13.5379mm  Top                0mm  Surface mount
+UART_LIGHT_RXTP44-TP        22.81mm   29.8535mm  Top                0mm  Surface mount
+UART_LIGHT_TXTP46-TP      43.7151mm   38.7695mm  Top                0mm  Surface mount
+UART_RBI_RX TP47-TP      60.7013mm   30.8698mm  Top                0mm  Surface mount
+SPI_CAM_MISOTP51-TP      40.7167mm   33.2583mm  Bottom             0mm  Surface mount
+I2C_CAM_SCL TP39-TP       64.761mm   63.2118mm  Bottom             0mm  Surface mount
+3V3_LIGHT_ENTP11-TP      16.7561mm   70.6033mm  Bottom             0mm  Surface mount
+3V3         TP31-TP         16.8mm   72.8359mm  Bottom             0mm  Surface mount
+3V3_LIGHT_nFAULTTP12-TP      16.7561mm   74.5133mm  Bottom             0mm  Surface mount
+I2C_LIGHT_SDATP8-TP         17.73mm      87.7mm  Bottom             0mm  Surface mount
+UART_LIGHT_RXTP9-TP         15.19mm      87.7mm  Bottom             0mm  Surface mount
+UART_LIGHT_TXTP10-TP        12.65mm      87.7mm  Bottom             0mm  Surface mount
+INT_DOOR    TP14-TP        25.35mm       2.5mm  Bottom             0mm  Surface mount
+GPIO1       TP13-TP        25.35mm     8.675mm  Bottom             0mm  Surface mount
+INT_VEML    TP16-TP        22.81mm       2.5mm  Bottom             0mm  Surface mount
+GPIO2       TP15-TP        22.81mm     8.385mm  Bottom             0mm  Surface mount
+INT_AS7265x TP18-TP        20.27mm       2.5mm  Bottom             0mm  Surface mount
+INT_TMP     TP20-TP        17.73mm       2.5mm  Bottom             0mm  Surface mount
+INT_MAX6615_nOTTP22-TP        15.19mm       2.5mm  Bottom             0mm  Surface mount
+UART_SYS_RX TP21-TP       15.201mm    8.3613mm  Bottom             0mm  Surface mount
+INT_MAX6615_nFAILTP24-TP        12.65mm       2.5mm  Bottom             0mm  Surface mount
+UART_SYS_TX TP23-TP        12.65mm     8.385mm  Bottom             0mm  Surface mount
+I2C_SYS_SCL TP17-TP        20.27mm        10mm  Bottom             0mm  Surface mount
+I2C_SYS_SDA TP19-TP        17.73mm      10.2mm  Bottom             0mm  Surface mount
+3V3_SYS_EN  TP25-TP      15.6529mm    18.375mm  Bottom             0mm  Surface mount
+3V3_SYS_nFAULTTP26-TP      15.6529mm      16.1mm  Bottom             0mm  Surface mount
+5V          TP32-TP        30.43mm       8.6mm  Bottom             0mm  Surface mount
+12V         TP33-TP         7.57mm       8.6mm  Bottom             0mm  Surface mount
+GPIO3       TP5-TP         25.35mm      87.7mm  Bottom             0mm  Surface mount
+GPIO4       TP6-TP         22.81mm      87.7mm  Bottom             0mm  Surface mount
+I2C_LIGHT_SCLTP7-TP         20.27mm      87.7mm  Bottom             0mm  Surface mount
+I2C_CAM_SDA TP40-TP      66.7858mm      64.9mm  Bottom             0mm  Surface mount
+ADC1_IN3    TP50-TP      48.7341mm   20.8833mm  Bottom             0mm  Surface mount

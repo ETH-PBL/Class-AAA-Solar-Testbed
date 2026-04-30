@@ -1,0 +1,3 @@
+"Net","Name","X Coord","Y Coord","Side","Hole Size","Type"
+"NetR48_TC1_1","TP1-TP","265.4mm","305.9mm","Top","0mm","Surface mount"
+"NetR48_TC2_1","TP2-TP","23.8mm","-16mm","Top","0mm","Surface mount"

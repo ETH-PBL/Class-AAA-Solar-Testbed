@@ -1,0 +1,10 @@
+Output: CAD
+Type  : ExportSTEP
+From  : Variant [STB_ValidationBoard_main] of PCB Document [STB_ValidationBoard.PcbDoc]
+   Generated File[STB_ValidationBoard_CAD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 09:43:45 On 09.11.2022

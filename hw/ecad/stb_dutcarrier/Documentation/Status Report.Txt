@@ -1,0 +1,10 @@
+Output: CAD
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [STB_DUTcarrier.PcbDoc]
+   Generated File[STB_DUTcarrier_CAD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:00:32 On 06.11.2022
