@@ -55,7 +55,7 @@ The testbed consists of four main subsystems implemented on separate PCBs:
 
 - **Control Board:** The control board coordinates all subsystems using an STM32 Cortex-M4 microcontroller. It manages illumination, temperature control, and overall system operation, and provides a USB Type-C interface for external communication. It further allows the addition of a single board comupter such as a Raspberry Pi to take control over high level control of the measurement  
 
-All design files for the **coustom designed PCBs** can be found [here](./hw/ecad/).  
+All design files for the **custom designed PCBs** can be found [here](./hw/ecad/).  
 Apart from the PCBs described above, the list of **commercial electrical components** used can be found [here](./hw/ecad/commercial_electrical_components.csv).
 
 
